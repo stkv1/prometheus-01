@@ -6,33 +6,33 @@
 
 Запущенный сервис Prometheus
 
-![](https://github.com/stkv1/prometheus-01/blob/main/img/003.png)
+![text](https://github.com/stkv1/prometheus-01/blob/main/img/002.PNG)
 
 
 ### Задание 2
 
 Запущенный сервис Node-Exporter
 
-![](https://github.com/stkv1/prometheus-01/blob/main/img/005.png)
+![text](https://github.com/stkv1/prometheus-01/blob/main/img/005.PNG)
 
 ### Задание 3
 
 Статусы метрик в Prometheus
 
-![](https://github.com/stkv1/prometheus-01/blob/main/img/013.png)
+![text](https://github.com/stkv1/prometheus-01/blob/main/img/013.PNG)
 
-![](https://github.com/stkv1/prometheus-01/blob/main/img/014.png)
+![text](https://github.com/stkv1/prometheus-01/blob/main/img/014.PNG)
 
 ### Задание 4
 
 Пользователь в Grafana
 
-![](https://github.com/stkv1/prometheus-01/blob/main/img/015.png)
+![text](https://github.com/stkv1/prometheus-01/blob/main/img/015.PNG)
 
 ### Задание 5
 
 Импортированный дашборд
 
-![](https://github.com/stkv1/prometheus-01/blob/main/img/016.png)
+![text](https://github.com/stkv1/prometheus-01/blob/main/img/016.PNG)
 
 
